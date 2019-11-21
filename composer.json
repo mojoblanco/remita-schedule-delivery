@@ -1,0 +1,20 @@
+{
+    "name": "mojoblanco/remita-schedule-delivery",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Olawale",
+            "email": "mojoblanco@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mojoblanco\\ScheduleDelivery\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
